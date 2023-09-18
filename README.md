@@ -1,4 +1,6 @@
 # Navneet
+This project is for Stroke Prediction using Machine Learning.
+
 Topic - Stroke Prediction using Machine Learning
 Introduction
 Stroke is a severe cerebrovascular disease caused by an interruption of blood flow from and to
